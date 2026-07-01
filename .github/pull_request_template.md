@@ -2,6 +2,11 @@
 
 <!-- O que esse PR faz e por quê -->
 
+## Uso de IA
+
+- [ ] Vibe-code
+- [ ] Pesquisa
+
 ## Tipo de mudança
 
 - [ ] Bug fix
