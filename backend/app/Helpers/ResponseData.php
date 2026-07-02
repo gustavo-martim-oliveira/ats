@@ -87,7 +87,6 @@ final class ResponseData {
         switch($code) {
             case $code >= 500:
                     self::handleErrorLog($message, $data, $code);
-
                 break;
 
             default:
