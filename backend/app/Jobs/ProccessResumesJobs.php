@@ -38,7 +38,7 @@ class ProccessResumesJobs implements ShouldQueue
 
     public function getConnectionName(): ?string
     {
-        return 'rabbitmq';
+        return 'rabbitmq_producer';
     }
 
     /**
